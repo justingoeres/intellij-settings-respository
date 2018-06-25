@@ -17,6 +17,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
+    <mask>*-items.xml</mask>
     <mask>*.impex</mask>
   </component>
 </application>

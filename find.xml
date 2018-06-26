@@ -7,11 +7,10 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -20,5 +19,6 @@
     <mask>*.xml</mask>
     <mask>*beans.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.java</mask>
   </component>
 </application>

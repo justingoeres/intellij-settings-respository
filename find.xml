@@ -3,11 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tag" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*-items.xml</mask>
     <mask>*beans.xml</mask>
@@ -18,6 +18,8 @@
     <mask>*solr.impex</mask>
     <mask>*.impex</mask>
     <mask>cms*.impex</mask>
+    <mask>*.css</mask>
     <mask>*.jsp</mask>
+    <mask>*.tag</mask>
   </component>
 </application>

@@ -71,6 +71,7 @@
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
     </driver>
+    <driver id="com.sap.db.jdbc.Driver" name="com.sap.db.jdbc.Driver" driver-class="com.sap.db.jdbc.Driver" />
     <driver id="db2.jtopen">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />

@@ -3,6 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
@@ -10,7 +11,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*beans.xml</mask>
-    <mask>*.java</mask>
     <mask>*solr*.impex</mask>
     <mask>*impex</mask>
     <mask>*solr.impex</mask>
@@ -22,5 +22,6 @@
     <mask>*.impex</mask>
     <mask>*ant*.impex</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>

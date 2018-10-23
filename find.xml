@@ -3,6 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.as</mask>
@@ -19,10 +20,10 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*_en.impex</mask>
-    <mask>*.impex</mask>
     <mask>*-items.xml</mask>
     <mask>*.css</mask>
     <mask>*.css</mask>
     <mask>*.less</mask>
+    <mask>*.impex</mask>
   </component>
 </application>

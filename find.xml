@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*-items.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.as</mask>
@@ -21,12 +22,12 @@
     <mask>*ant*.impex</mask>
     <mask>*.js</mask>
     <mask>*_en.impex</mask>
-    <mask>*-items.xml</mask>
     <mask>*.css</mask>
     <mask>*.css</mask>
     <mask>*.less</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*-items.xml</mask>
   </component>
 </application>

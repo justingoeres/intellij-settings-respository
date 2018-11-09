@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.jsp" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -21,10 +23,10 @@
     <mask>*.properties</mask>
     <mask>*-spring.xml</mask>
     <mask>*.java</mask>
-    <mask>*.impex</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.less</mask>
     <mask>*.jsp</mask>
+    <mask>*.impex</mask>
   </component>
 </application>

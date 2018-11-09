@@ -3,6 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.jsp" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -11,7 +12,6 @@
     <mask>*impex</mask>
     <mask>*solr.impex</mask>
     <mask>cms*.impex</mask>
-    <mask>*.jsp</mask>
     <mask>*.tag</mask>
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
@@ -25,5 +25,6 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.less</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>

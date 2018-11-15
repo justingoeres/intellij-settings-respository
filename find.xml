@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -16,16 +15,16 @@
     <mask>*.tag</mask>
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
-    <mask>*.css</mask>
-    <mask>*.css</mask>
     <mask>*-items.xml</mask>
     <mask>*.properties</mask>
     <mask>*-spring.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>*.less</mask>
     <mask>*.jsp</mask>
     <mask>*.impex</mask>
+    <mask>*.less</mask>
+    <mask>*.css</mask>
+    <mask>*.css</mask>
   </component>
 </application>

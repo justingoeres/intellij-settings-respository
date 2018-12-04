@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*-beans.xml" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -29,5 +30,6 @@
     <mask>*.less</mask>
     <mask>*.impex</mask>
     <mask>*.xml</mask>
+    <mask>*-beans.xml</mask>
   </component>
 </application>

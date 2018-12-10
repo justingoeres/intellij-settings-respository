@@ -2,11 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*-items.xml" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -18,7 +17,6 @@
     <mask>*.tag</mask>
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
-    <mask>*-items.xml</mask>
     <mask>*.properties</mask>
     <mask>*-spring.xml</mask>
     <mask>*.java</mask>
@@ -30,5 +28,6 @@
     <mask>*.xml</mask>
     <mask>*-beans.xml</mask>
     <mask>*.js</mask>
+    <mask>*-items.xml</mask>
   </component>
 </application>

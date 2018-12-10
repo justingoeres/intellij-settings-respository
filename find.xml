@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -22,9 +25,9 @@
     <mask>*.css</mask>
     <mask>*.less</mask>
     <mask>*.impex</mask>
-    <mask>*.xml</mask>
     <mask>*-beans.xml</mask>
     <mask>*.js</mask>
     <mask>*-items.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

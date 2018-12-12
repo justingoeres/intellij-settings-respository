@@ -23,10 +23,10 @@
     <mask>*.css</mask>
     <mask>*.css</mask>
     <mask>*.less</mask>
-    <mask>*.impex</mask>
     <mask>*-beans.xml</mask>
     <mask>*.js</mask>
     <mask>*-items.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.impex</mask>
   </component>
 </application>

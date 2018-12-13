@@ -3,9 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <mask>*.html</mask>
     <mask>*.as</mask>
@@ -18,7 +16,6 @@
     <mask>*.tag</mask>
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
-    <mask>*.properties</mask>
     <mask>*-spring.xml</mask>
     <mask>*.java</mask>
     <mask>*.jsp</mask>
@@ -30,5 +27,6 @@
     <mask>*-items.xml</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.properties</mask>
   </component>
 </application>

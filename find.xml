@@ -7,6 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -19,7 +20,6 @@
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
     <mask>*-spring.xml</mask>
-    <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.css</mask>
     <mask>*.css</mask>
@@ -30,5 +30,6 @@
     <mask>*.less</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.java</mask>
   </component>
 </application>

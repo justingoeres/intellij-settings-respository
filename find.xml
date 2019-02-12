@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.as</mask>
@@ -13,7 +11,6 @@
     <mask>*impex</mask>
     <mask>*solr.impex</mask>
     <mask>cms*.impex</mask>
-    <mask>*.tag</mask>
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
     <mask>*-spring.xml</mask>
@@ -28,5 +25,6 @@
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>*.tag</mask>
   </component>
 </application>

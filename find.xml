@@ -22,9 +22,9 @@
     <mask>*-items.xml</mask>
     <mask>*.less</mask>
     <mask>*.xml</mask>
-    <mask>*.impex</mask>
     <mask>*.properties</mask>
     <mask>*.tag</mask>
     <mask>*.java</mask>
+    <mask>*.impex</mask>
   </component>
 </application>

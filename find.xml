@@ -9,7 +9,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -31,7 +31,7 @@
     <mask>*.properties</mask>
     <mask>*.tag</mask>
     <mask>*.java</mask>
-    <mask>*.impex</mask>
     <mask>*.xml</mask>
+    <mask>*.impex</mask>
   </component>
 </application>

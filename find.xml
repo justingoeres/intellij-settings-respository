@@ -3,10 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -24,11 +23,11 @@
     <mask>*-beans.xml</mask>
     <mask>*.js</mask>
     <mask>*-items.xml</mask>
-    <mask>*.less</mask>
     <mask>*.properties</mask>
     <mask>*.tag</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.less</mask>
   </component>
 </application>

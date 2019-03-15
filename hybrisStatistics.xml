@@ -1,7 +1,0 @@
-<application>
-  <component name="HybrisStatistics">
-    <entity action="OPEN_PROJECT" date="2019-03-11T10:16:38.801-04:00[America/New_York]" />
-    <entity action="OPEN_PROJECT" date="2019-03-14T16:38:50.639-04:00[America/New_York]" />
-    <entity action="IMPORT_PROJECT" date="2019-03-14T16:42:57.253-04:00[America/New_York]" params="readOnly:true,customDirectoryOverride:true,hasSources:false" />
-  </component>
-</application>

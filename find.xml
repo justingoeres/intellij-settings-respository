@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*-spring.xml" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -26,9 +27,9 @@
     <mask>*.tag</mask>
     <mask>.properties</mask>
     <mask>*.impex</mask>
-    <mask>*-spring.xml</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*-spring.xml</mask>
   </component>
 </application>

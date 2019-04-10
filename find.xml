@@ -23,10 +23,10 @@
     <mask>-beans</mask>
     <mask>*.tag</mask>
     <mask>.properties</mask>
-    <mask>*.xml</mask>
     <mask>*-spring.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

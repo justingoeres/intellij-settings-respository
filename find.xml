@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.prop*" />
     <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -14,7 +13,6 @@
     <mask>cms*.impex</mask>
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
-    <mask>*.jsp</mask>
     <mask>*.css</mask>
     <mask>*.css</mask>
     <mask>*-beans.xml</mask>
@@ -30,5 +28,6 @@
     <mask>*.impex</mask>
     <mask>*.xml</mask>
     <mask>*.prop*</mask>
+    <mask>*.jsp</mask>
   </component>
 </application>

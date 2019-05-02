@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
     <mask>*.html</mask>
     <mask>*.as</mask>
@@ -22,7 +24,6 @@
     <mask>-beans</mask>
     <mask>*.tag</mask>
     <mask>.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.prop*</mask>
     <mask>*.properties</mask>
     <mask>*-spring.xml</mask>
@@ -30,5 +31,6 @@
     <mask>*.csv</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

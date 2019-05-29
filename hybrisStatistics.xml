@@ -5,5 +5,8 @@
     <entity action="REFRESH_PROJECT" date="2019-05-29T14:44:07.784-04:00[America/New_York]" />
     <entity action="IMPORT_PROJECT" date="2019-05-29T14:44:09.603-04:00[America/New_York]" params="readOnly:true,customDirectoryOverride:true,hasSources:false" />
     <entity action="IMPEX_CONSOLE" date="2019-05-29T16:59:37.322-04:00[America/New_York]" />
+    <entity action="OPEN_PROJECT" date="2019-05-29T17:03:46.110-04:00[America/New_York]" />
+    <entity action="IMPEX_CONSOLE" date="2019-05-29T17:03:51.677-04:00[America/New_York]" />
+    <entity action="SOLR_CONSOLE" date="2019-05-29T17:13:44.078-04:00[America/New_York]" />
   </component>
 </application>

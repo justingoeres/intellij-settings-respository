@@ -10,5 +10,6 @@
     <entity action="SOLR_CONSOLE" date="2019-05-29T17:13:44.078-04:00[America/New_York]" />
     <entity action="IMPEX_CONSOLE" date="2019-05-30T10:32:27.749-04:00[America/New_York]" />
     <entity action="FLEXIBLE_SEARCH_CONSOLE" date="2019-05-30T11:24:08.511-04:00[America/New_York]" />
+    <entity action="OPEN_PROJECT" date="2019-05-30T17:05:15.813-04:00[America/New_York]" />
   </component>
 </application>

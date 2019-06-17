@@ -27,10 +27,10 @@
     <mask>*.csv</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.properties</mask>
     <mask>localextensions.xml</mask>
     <mask>*_en*</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*.properties</mask>
   </component>
 </application>

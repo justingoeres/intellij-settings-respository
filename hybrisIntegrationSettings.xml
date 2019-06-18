@@ -7,6 +7,7 @@
         <option value="BUILD_PROJECT" />
         <option value="FLEXIBLE_SEARCH_CONSOLE" />
         <option value="IMPEX_CONSOLE" />
+        <option value="IMPEX_MONITOR" />
         <option value="IMPEX_TABLE_FORMAT" />
         <option value="IMPORT_PROJECT" />
         <option value="OPEN_PROJECT" />

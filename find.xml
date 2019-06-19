@@ -32,5 +32,6 @@
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*_en.properties</mask>
   </component>
 </application>

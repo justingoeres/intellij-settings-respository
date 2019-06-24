@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*beans.xml</mask>
@@ -30,10 +28,11 @@
     <mask>*.jsp</mask>
     <mask>localextensions.xml</mask>
     <mask>*_en*</mask>
-    <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*_en.properties</mask>
     <mask>*.impex</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*Populator.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

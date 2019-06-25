@@ -3,12 +3,16 @@
     <option name="allowedSendingPlainStatistics" value="true" />
     <option name="usedActions">
       <set>
-        <option value="IMPORT_PROJECT" />
-        <option value="REFRESH_PROJECT" />
-        <option value="OPEN_PROJECT" />
         <option value="ANT" />
-        <option value="IMPEX_TABLE_FORMAT" />
         <option value="BUILD_PROJECT" />
+        <option value="FLEXIBLE_SEARCH_CONSOLE" />
+        <option value="IMPEX_CONSOLE" />
+        <option value="IMPEX_MONITOR" />
+        <option value="IMPEX_TABLE_FORMAT" />
+        <option value="IMPORT_PROJECT" />
+        <option value="OPEN_PROJECT" />
+        <option value="REFRESH_PROJECT" />
+        <option value="SOLR_CONSOLE" />
       </set>
     </option>
   </component>

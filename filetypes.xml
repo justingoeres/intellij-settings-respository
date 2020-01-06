@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="lst" type="PLAIN_TEXT" />
-      <removed_mapping pattern="greet2.js" approved="true" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>

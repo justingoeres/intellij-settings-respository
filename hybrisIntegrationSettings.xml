@@ -1,19 +1,11 @@
 <application>
   <component name="HybrisApplicationSettings">
-    <option name="allowedSendingPlainStatistics" value="true" />
-    <option name="usedActions">
-      <set>
-        <option value="ANT" />
-        <option value="BUILD_PROJECT" />
-        <option value="FLEXIBLE_SEARCH_CONSOLE" />
-        <option value="IMPEX_CONSOLE" />
-        <option value="IMPEX_MONITOR" />
-        <option value="IMPEX_TABLE_FORMAT" />
-        <option value="IMPORT_PROJECT" />
-        <option value="OPEN_PROJECT" />
-        <option value="REFRESH_PROJECT" />
-        <option value="SOLR_CONSOLE" />
-      </set>
-    </option>
+    <option name="allowSendingStatistics" value="true" />
+    <option name="configPropertyFolding" value="Full" />
+    <option name="headerFolding" value="Smart" />
+    <option name="lastPluginVersionReleaseNotesShownToUser" value="2019.3.8.4" />
+    <option name="lineFolding" value="Enabled" />
+    <option name="localMacroFolding" value="Full" />
+    <option name="suspendPluginUpdateForVersion" value="2019.3.8.4" />
   </component>
 </application>

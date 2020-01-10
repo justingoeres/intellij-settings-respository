@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <mask>*.as</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="-spring.xml" />
     <mask>*.mxml</mask>
     <mask>*beans.xml</mask>
     <mask>*solr*.impex</mask>
@@ -33,5 +33,6 @@
     <mask>*Populator.java</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>-spring.xml</mask>
   </component>
 </application>

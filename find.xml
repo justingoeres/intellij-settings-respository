@@ -30,8 +30,8 @@
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*Populator.java</mask>
-    <mask>*.xml</mask>
     <mask>-spring.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

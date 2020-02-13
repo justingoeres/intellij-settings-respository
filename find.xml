@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*-items.xml" />
     <mask>*.mxml</mask>
     <mask>*beans.xml</mask>
     <mask>*solr*.impex</mask>
@@ -26,12 +29,12 @@
     <mask>localextensions.xml</mask>
     <mask>*_en*</mask>
     <mask>*_en.properties</mask>
-    <mask>*.java</mask>
     <mask>*Populator.java</mask>
     <mask>-spring.xml</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.java</mask>
     <mask>*-items.xml</mask>
   </component>
 </application>

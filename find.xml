@@ -3,11 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.impex" />
-    <mask>*beans.xml</mask>
-    <mask>*solr*.impex</mask>
-    <mask>*impex</mask>
-    <mask>*solr.impex</mask>
+    <option name="FILE_MASK" value="*zh*.properties" />
     <mask>cms*.impex</mask>
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
@@ -34,5 +30,9 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*fr*</mask>
+    <mask>*es*</mask>
+    <mask>*es*.properties</mask>
+    <mask>*zh*.properties</mask>
   </component>
 </application>

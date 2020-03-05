@@ -29,9 +29,9 @@
     <mask>*es*</mask>
     <mask>*es*.properties</mask>
     <mask>*zh*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.impex</mask>
-    <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
   </component>
 </application>

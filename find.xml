@@ -25,7 +25,6 @@
     <mask>*-items.xml</mask>
     <mask>*.properties</mask>
     <mask>*scss</mask>
-    <mask>*.xml</mask>
     <mask>*fr*</mask>
     <mask>*es*</mask>
     <mask>*es*.properties</mask>
@@ -33,5 +32,6 @@
     <mask>*.java</mask>
     <mask>*.impex</mask>
     <mask>*.jsp</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

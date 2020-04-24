@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>cms*.impex</mask>
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
@@ -32,8 +33,8 @@
     <mask>*zh*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
-    <mask>*.impex</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
+    <mask>*.impex</mask>
   </component>
 </application>

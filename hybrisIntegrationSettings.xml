@@ -2,9 +2,11 @@
   <component name="HybrisApplicationSettings">
     <option name="allowSendingStatistics" value="true" />
     <option name="configPropertyFolding" value="Full" />
+    <option name="hasCustomFontBeenSetForMacOS" value="true" />
     <option name="headerFolding" value="Smart" />
-    <option name="lastPluginVersionReleaseNotesShownToUser" value="2019.3.8.4" />
+    <option name="lastPluginVersionReleaseNotesShownToUser" value="2020.1.0.1" />
     <option name="lineFolding" value="Enabled" />
     <option name="localMacroFolding" value="Full" />
+    <option name="suspendPluginUpdateForVersion" value="2020.1.0.1" />
   </component>
 </application>

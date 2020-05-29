@@ -35,8 +35,8 @@
     <mask>*zh*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
-    <mask>*.impex</mask>
     <mask>*.xml</mask>
+    <mask>*.impex</mask>
     <mask>*.properties</mask>
   </component>
 </application>

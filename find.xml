@@ -3,30 +3,28 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>cms*.impex</mask>
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
     <mask>*.css</mask>
     <mask>*.css</mask>
-    <mask>*-beans.xml</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>-beans</mask>
     <mask>*.tag</mask>
     <mask>.properties</mask>
     <mask>*.prop*</mask>
-    <mask>*-spring.xml</mask>
     <mask>*.csv</mask>
     <mask>localextensions.xml</mask>
     <mask>*_en*</mask>
     <mask>*_en.properties</mask>
     <mask>*Populator.java</mask>
     <mask>-spring.xml</mask>
-    <mask>*-items.xml</mask>
     <mask>*scss</mask>
     <mask>*fr*</mask>
     <mask>*es*</mask>
@@ -34,8 +32,11 @@
     <mask>*zh*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*.properties</mask>
+    <mask>*-spring.xml</mask>
+    <mask>*-beans.xml</mask>
+    <mask>*-items.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

@@ -2,7 +2,6 @@
   <component name="HybrisApplicationSettings">
     <option name="allowSendingStatistics" value="true" />
     <option name="configPropertyFolding" value="Full" />
-    <option name="hasCustomFontBeenSetForMacOS" value="true" />
     <option name="lastPluginVersionReleaseNotesShownToUser" value="2020.1.2.1" />
     <option name="localMacroFolding" value="Full" />
   </component>

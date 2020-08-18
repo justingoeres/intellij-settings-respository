@@ -5,10 +5,9 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsp" />
+    <option name="FILE_MASK" value="*.impex" />
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
-    <mask>*.css</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
@@ -33,8 +32,9 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*.impex</mask>
     <mask>*.scss</mask>
     <mask>*.jsp</mask>
+    <mask>*.css</mask>
+    <mask>*.impex</mask>
   </component>
 </application>

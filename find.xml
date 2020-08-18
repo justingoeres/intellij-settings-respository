@@ -5,8 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.impex" />
-    <mask>cms*.impex</mask>
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
     <mask>*.css</mask>
@@ -36,5 +35,6 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.scss</mask>
   </component>
 </application>

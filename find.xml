@@ -29,12 +29,12 @@
     <mask>*-spring.xml</mask>
     <mask>*-beans.xml</mask>
     <mask>*-items.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*.jsp</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
+    <mask>*.properties</mask>
     <mask>*.impex</mask>
   </component>
 </application>

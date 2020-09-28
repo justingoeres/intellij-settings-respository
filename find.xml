@@ -33,8 +33,8 @@
     <mask>*.jsp</mask>
     <mask>*.css</mask>
     <mask>*.properties</mask>
-    <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*.java</mask>
     <mask>*.xml</mask>
   </component>
 </application>

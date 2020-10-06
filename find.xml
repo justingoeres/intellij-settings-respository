@@ -9,7 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
     <mask>*.css</mask>
@@ -34,11 +34,11 @@
     <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
-    <mask>*.properties</mask>
     <mask>*-items.xml</mask>
     <mask>*.tag</mask>
     <mask>*.impex</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>

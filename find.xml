@@ -1,10 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.impex" />
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
@@ -12,7 +14,6 @@
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>-beans</mask>
-    <mask>*.tag</mask>
     <mask>.properties</mask>
     <mask>*.prop*</mask>
     <mask>*.csv</mask>
@@ -29,12 +30,13 @@
     <mask>*-spring.xml</mask>
     <mask>*-beans.xml</mask>
     <mask>*.scss</mask>
-    <mask>*.jsp</mask>
     <mask>*.css</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*-items.xml</mask>
+    <mask>*.tag</mask>
+    <mask>*.jsp</mask>
     <mask>*.impex</mask>
   </component>
 </application>

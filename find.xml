@@ -7,6 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*ant*.impex</mask>
     <mask>*_en.impex</mask>
     <mask>*.css</mask>
@@ -30,12 +31,12 @@
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.tag</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*-beans.xml</mask>
     <mask>*-items.xml</mask>
     <mask>*-spring.xml</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*.properties</mask>
   </component>
 </application>

@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Hardinge*" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>-beans</mask>
@@ -29,12 +29,12 @@
     <mask>*-beans.xml</mask>
     <mask>*-items.xml</mask>
     <mask>*-spring.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*.properties</mask>
     <mask>*.less</mask>
     <mask>*.java</mask>
     <mask>*Controller.java</mask>
     <mask>*Hardinge*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

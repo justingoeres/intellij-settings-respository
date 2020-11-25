@@ -11,7 +11,6 @@
     <mask>*_en.impex</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.less</mask>
     <mask>-beans</mask>
     <mask>.properties</mask>
     <mask>*.prop*</mask>
@@ -37,5 +36,6 @@
     <mask>*.java</mask>
     <mask>*.impex</mask>
     <mask>*.properties</mask>
+    <mask>*.less</mask>
   </component>
 </application>

@@ -32,8 +32,8 @@
     <mask>*-items.xml</mask>
     <mask>*-spring.xml</mask>
     <mask>*.xml</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.impex</mask>
+    <mask>*.properties</mask>
   </component>
 </application>

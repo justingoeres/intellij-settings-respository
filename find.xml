@@ -6,7 +6,6 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>-beans</mask>
     <mask>.properties</mask>
     <mask>*.prop*</mask>
@@ -35,5 +34,6 @@
     <mask>*Hardinge*</mask>
     <mask>*-items.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>

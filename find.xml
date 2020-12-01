@@ -3,6 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>-beans</mask>
     <mask>.properties</mask>
@@ -30,8 +31,8 @@
     <mask>*Controller.java</mask>
     <mask>*Hardinge*</mask>
     <mask>*-items.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.impex</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

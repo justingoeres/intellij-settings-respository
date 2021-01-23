@@ -32,8 +32,8 @@
     <mask>*Hardinge*</mask>
     <mask>*.js</mask>
     <mask>*-items.xml</mask>
+    <mask>*properties</mask>
     <mask>*.impex</mask>
     <mask>*.xml</mask>
-    <mask>*properties</mask>
   </component>
 </application>

@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*properties" />
     <mask>-beans</mask>
     <mask>.properties</mask>
     <mask>*.prop*</mask>
@@ -32,10 +33,10 @@
     <mask>*Hardinge*</mask>
     <mask>*.js</mask>
     <mask>*-items.xml</mask>
-    <mask>*properties</mask>
     <mask>*Controller.java</mask>
     <mask>*.impex</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*properties</mask>
   </component>
 </application>

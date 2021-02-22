@@ -32,8 +32,8 @@
     <mask>*-items.xml</mask>
     <mask>*Controller.java</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.impex</mask>
     <mask>*properties</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

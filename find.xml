@@ -31,9 +31,9 @@
     <mask>*.js</mask>
     <mask>*Controller.java</mask>
     <mask>*-items.xml</mask>
-    <mask>*.java</mask>
     <mask>*properties</mask>
     <mask>*.impex</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
